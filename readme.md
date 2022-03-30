@@ -1,3 +1,3 @@
 A react app todo list
 
-https://pheizaut.github.io
+https://pheizaut.github.io/homepage/
